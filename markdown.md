@@ -1,9 +1,9 @@
 # About me
 
 Here are **three** things about me
-*I am from Northern California
-*I like to knit
-*I love the watch movies
+* I am from Northern California
+* I like to knit
+* I love the watch movies
 
 ```javascript
 const myFunc = {} => {
